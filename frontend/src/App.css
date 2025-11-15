@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+img {
+  margin-top: 20px;
+  border: 2px solid #333;
+}
